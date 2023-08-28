@@ -14,6 +14,18 @@ body{
     color: white;
     padding: 15px 35px;
 }
+.section-title{
+color: #181818;
+text-align: center;
+font-size: 35px;
+font-weight: 700;
+}
+.section-description{
+color: #757575;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
 /*navigation related styles*/
 nav{
     display: flex;
@@ -68,4 +80,13 @@ nav li{
 }
 .banner-content{
     max-width: 500px;
+}
+/*main section styles*/
+
+/*about section styles*/
+.about{
+    padding: 130px 0px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 0;
 }
